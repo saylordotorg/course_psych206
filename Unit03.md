@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH206: Cognitive Psychology"
+course_description: "A detailed introduction to the study of the ways in which we come to know about the world around us and about one another."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Attention and Memory** <span id="3"></span> 
 *Attention enables us to complete specific tasks despite the millions of
 stimuli that threaten to distract us at any given moment.  Think, for

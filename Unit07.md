@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH206: Cognitive Psychology"
+course_description: "A detailed introduction to the study of the ways in which we come to know about the world around us and about one another."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: The Saylor Foundation's PSYCH206 Final Exam**
     Link: The Saylor Foundation's [PSYCH206 Final

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH206: Cognitive Psychology"
+course_description: "A detailed introduction to the study of the ways in which we come to know about the world around us and about one another."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Social Cognition, Motivation, and Emotion** <span
 id="2"></span> 
 *The last unit focused on the philosophical and historical roots of

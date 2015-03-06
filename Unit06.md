@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH206: Cognitive Psychology"
+course_description: "A detailed introduction to the study of the ways in which we come to know about the world around us and about one another."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Problem Solving, Reasoning, and Decision Making** <span
 id="6"></span> 
 *The final unit of this course will examine the cognitive processes of

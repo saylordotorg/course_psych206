@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH206: Cognitive Psychology"
+course_description: "A detailed introduction to the study of the ways in which we come to know about the world around us and about one another."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PSYCH206: Cognitive Psychology"
 ----------------------------------------------------
 

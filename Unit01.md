@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH206: Cognitive Psychology"
+course_description: "A detailed introduction to the study of the ways in which we come to know about the world around us and about one another."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: An Introduction to Cognitive Psychology** <span
 id="1"></span> 
 *Cognitive psychology is a subdiscipline in psychology that is generally
