@@ -114,3 +114,13 @@ yourself.  For example, Unit 1 should take you 11 hours.  Perhaps you
 can sit down with your calendar and decide to progress through/complete
 subunits 1.1  and 1.2 (a total of 6 hours) on Monday/Tuesday night;
 subunit 1.3 (a total of 5 hours) on Wednesday/Thursday night; etc.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/psych206/Unit01/)
+- [Unit 2](https://legacy.saylor.org/psych206/Unit02/)
+- [Unit 3](https://legacy.saylor.org/psych206/Unit03/)
+- [Unit 4](https://legacy.saylor.org/psych206/Unit04/)
+- [Unit 5](https://legacy.saylor.org/psych206/Unit05/)
+- [Unit 6](https://legacy.saylor.org/psych206/Unit06/)
+- [Unit 7](https://legacy.saylor.org/psych206/Unit07/)
