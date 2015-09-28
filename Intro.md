@@ -141,3 +141,4 @@ subunit 1.3 (a total of 5 hours) on Wednesday/Thursday night; etc.
 - [Unit 5](https://legacy.saylor.org/psych206/Unit05/)
 - [Unit 6](https://legacy.saylor.org/psych206/Unit06/)
 - [Unit 7](https://legacy.saylor.org/psych206/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH206/PSYCH206-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH206/PSYCH206-FinalExam-Answers.html)
