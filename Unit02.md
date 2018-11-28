@@ -58,7 +58,7 @@ id="2.1"></span> 
     Neuroscience: “Behavioural and Neuroscience Methods”**
     Link: Wikibook’s *Cognitive Psychology and Cognitive
     Neuroscience: *[“Behavioural and Neuroscience
-    Methods”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Behavioural-and-Neuroscience-Methods.pdf)
+    Methods”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/Behavioural-and-Neuroscience-Methods.pdf)
     (PDF)  
         
      Instructions: Please click on the above link and read the entirety
@@ -79,7 +79,7 @@ id="2.2"></span> 
     Neuroscience: “Evolutionary Perspective on Social Cognitions”**
     Link: Wikibook’s *Cognitive Psychology and Cognitive Neuroscience:*
     “[Evolutionary Perspective on Social
-    Cognitions”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Evolutionary-Perspective-on-Social-Congnitions.pdf)
+    Cognitions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/Evolutionary-Perspective-on-Social-Congnitions.pdf)
     (PDF)  
         
      Instructions: Please click on the above link and read the entirety
@@ -102,7 +102,7 @@ id="2.2"></span> 
     “Part Two: Cognitive Motives”**
     Links: Wikibook’s *Cognitive Psychology and Cognitive Neuroscience:*
     “[Motivation and
-    Emotion”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Motivation-and-Emotion.pdf) (PDF)
+    Emotion”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/Motivation-and-Emotion.pdf) (PDF)
     and Georgia Southern University: Professor Russel A. Dewey’s
     *Psychology: An Introduction:* [“Part Two: Cognitive
     Motives”](http://www.intropsych.com/ch09_motivation/tofc_for_ch09_motivation.html)

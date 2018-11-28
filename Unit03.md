@@ -124,7 +124,7 @@ Upon successful completion of this course, students will be able to:
 -   **Reading: Wikibook’s Applied History of Psychology: “History of
     Research on Attention”**
     Link: Wikibook’s *History of Psychology:* [“History of Research on
-    Attention”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/History-of-Research-on-Attention.pdf)
+    Attention”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/History-of-Research-on-Attention.pdf)
     (PDF)  
         
      Instructions: Please note that the first reading covers subunits
