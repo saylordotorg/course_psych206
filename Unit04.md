@@ -134,7 +134,7 @@ id="4.1.1"></span> 
     Neuroscience: “Situational Models and Inferencing”**
     Link: Wikibook’s *Cognitive Psychology and Cognitive Neuroscience:*
     [“Situation Models and
-    Inferencing”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Situation-Models-and-Infencing.pdf)
+    Inferencing”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/Situation-Models-and-Infencing.pdf)
     (PDF)  
         
      Instructions: Please click on the above link and read the entirety
@@ -151,7 +151,7 @@ id="4.1.1"></span> 
 -   **Reading: Wikibook’s Cognitive Psychology and Cognitive
     Neuroscience: “Imagery”**
     Link: Wikibook’s *Cognitive Psychology and Cognitive Neuroscience:*
-    [“Imagery”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Imagery.pdf)
+    [“Imagery”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/Imagery.pdf)
     (PDF)  
         
      Instructions: Please note that this reading covers subunits

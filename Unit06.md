@@ -90,9 +90,9 @@ Upon completion of this unit, the student will be able to:
     “Reasoning and Decision Making”**
     Links: Wikibook’s *Cognitive Psychology and Cognitive Neuroscience:*
     [“Problem Solving from an Evolutionary
-    Perspective”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Problem-solving-from-an-evolutionary-perspective.pdf)
+    Perspective”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/Problem-solving-from-an-evolutionary-perspective.pdf)
     (PDF) and [“Reasoning and Decision
-    Making](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Reasoning-and-decision-making.pdf)”
+    Making](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/Reasoning-and-decision-making.pdf)”
     (PDF)  
         
      Instructions: These readings cover subunits 6.1.1–6.2.4.  Please
